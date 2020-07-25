@@ -1,5 +1,6 @@
 from pymongo import MongoClient
 #주석주석!!
+#변경사항
 client = MongoClient('localhost', 27017)
 db = client.dbsparta
 
